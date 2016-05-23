@@ -1,4 +1,4 @@
-﻿{
+{
   "userSecretsId": "aspnet-unape-1a240cd2-788a-41a2-a6b9-ef2e02774e98",
 
   "dependencies": {
@@ -37,7 +37,8 @@
     "Microsoft.VisualStudio.Web.CodeGenerators.Mvc": {
       "version": "1.0.0-preview1-final",
       "type": "build"
-    }
+    },
+    "Npgsql.EntityFrameworkCore.PostgreSQL": "1.0.0-rc2-release1"
   },
 
   "tools": {
